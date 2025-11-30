@@ -4,4 +4,4 @@ This project implements a multicycle MIPS processor in SystemVerilog, supporting
 
 The processor was tested through simulation using custom assembly programs and then deployed to an FPGA, where instructions and data were loaded via a Python-based interface. This project provided hands-on experience with CPU control design, digital logic, and FPGA development.
 
-Schematics for the Datapath can be found in `processor.pdf`, and the control unit FSM can be found in `fsm.pdf`
+Schematics for the Datapath can be found in `processor.pdf`, and the control unit FSM can be found in `FSM.pdf`
